@@ -19,7 +19,7 @@ public class FractalExplorer extends JFrame {
     Canvas canvas;
     BufferedImage fractalImage;
 
-    static final int MAX_ITER = 200;
+    static final int MAX_ITER = 450;
 
     static final double DEFAULT_ZOOM = 100.0;
     static final double DEFAULT_TOP_LEFT_X = -3.0;
