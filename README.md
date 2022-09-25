@@ -22,3 +22,5 @@ Fractal Images from program:
 ![img10](https://user-images.githubusercontent.com/63445788/192058950-87dde13f-d178-4407-890c-a9ab47dbfb4b.png)
 
 ![img7](https://user-images.githubusercontent.com/63445788/192058954-c65da589-14d0-4a12-9add-0519a1aefef9.png)
+
+![img9](https://user-images.githubusercontent.com/63445788/192157940-a6720c5a-71b4-4eb2-a8b8-278e288b0336.png)
